@@ -12,3 +12,5 @@ Website for our senior project, Lexiconlang
 [Final Report](https://docs.google.com/document/d/1I3w6whjpHkWO-Gn6l5j3RALgTJ_g2uMUbb0dvXEzl6I/edit)
 
 [Video Presentation](https://www.youtube.com/watch?v=nZT_4s00zwo)
+
+[Project Github](https://github.com/DanielJWein/Lexiconlang)
