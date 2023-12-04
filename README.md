@@ -6,4 +6,5 @@
   <img src=/img/Daniel.jpg width="400" height="400">
   <img src=/img/Colton.png width="400" height="400">
 </p>
+
 Website for our senior project, Lexiconlang
